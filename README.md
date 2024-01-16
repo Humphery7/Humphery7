@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 
-I'm [Your Name], a passionate Machine Learning Engineer and Data Scientist.
+I'm Humphery Ufuoma, a passionate Machine Learning Engineer and Data Scientist.
 
 🔭 **Currently Working On:** [Data Analysis, Machine Learning End to End projects]
 
