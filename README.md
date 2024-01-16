@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I'm Humphery Ufuoma, a passionate Machine Learning Engineer and Data Scientist.
 
-🔭 **Currently Working On:** [Data Analysis, Machine Learning End to End projects]
+🔭 **Currently Working On:** [Data Science, Machine Learning End to End projects]
 
 🌱 **Currently Learning:** [Tensorflow, Keras, Cloud technologies.]
 
