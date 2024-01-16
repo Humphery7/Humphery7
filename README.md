@@ -23,7 +23,7 @@ I'm Humphery Ufuoma, a passionate Machine Learning Engineer and Data Scientist.
 
 👯 **Looking to Collaborate with:** [Andriod and web developers.]
 
-🤔 **Looking for Help With:** [Raspberri Pi.]
+🤔 **Looking for Help With:** [Raspberry Pi.]
 
 💬 **Ask Me About:** [Data Science and Machine Learning concepts.]
 
