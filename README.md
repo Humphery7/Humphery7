@@ -21,7 +21,7 @@ I'm Humphery Ufuoma, a passionate Machine Learning Engineer and Data Scientist.
 
 🌱 **Currently Learning:** [Tensorflow, Keras, Cloud technologies.]
 
-👯 **Looking to Collaborate with:** [Andriod and web developers.]
+👯 **Looking to Collaborate with:** [Android and web developers.]
 
 🤔 **Looking for Help With:** [Raspberry Pi.]
 
