@@ -1,10 +1,10 @@
 # Hello there, I'm Humphery! 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986cc&width=435&lines=Control+Systems;Machine+Learning;Data+Engineering;Backend+Development;Modern+Control;Robotics;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2986cc&width=435&lines=Backend+Development;Machine+Learning;Control+Systems;Data+Engineering;Modern+Control;Robotics;" alt="Typing SVG" />
 
 ## About Me
 
-I’m an enthusiast of Control Systems, passionate about building intelligent and reliable systems that connect machine learning, automation, and scalable software design. With a foundation in control theory and data-driven modeling, I love creating solutions that bridge algorithms and real-world applications - from robotics and industrial systems to modern backend services.
+I’m passionate about backend development and intelligent system design, focused on building reliable and scalable software that connects automation, machine learning, and control principles. With a foundation in control theory and data-driven modeling, I enjoy creating solutions that bridge algorithms and real-world applications,from modern backend services to robotics and industrial systems.
 
 Curious by nature, I’m always exploring new tools, architectures, and frameworks that make systems more efficient, adaptable, and impactful.
 
