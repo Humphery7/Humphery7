@@ -23,6 +23,6 @@ Curious by nature, I’m always exploring new tools, architectures, and framewor
 </p>
 
 ## Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/humpheryotu/)
-[![Resume]([https://img.shields.io/badge/-Resume-4285F4?style=flat-square&logo=Google-Drive&logoColor=white)](https://drive.google.com/file/d/1MioJEuu7GvDE1wMzopa2OCnIMLfCANah/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/-Resume-4285F4?style=flat-square&logo=Google-Drive&logoColor=white)](https://drive.google.com/file/d/1MioJEuu7GvDE1wMzopa2OCnIMLfCANah/view?usp=sharing)
+
