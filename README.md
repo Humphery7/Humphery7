@@ -4,7 +4,7 @@
 
 ## About Me
 
-I’m passionate about backend development and intelligent system design, focused on building reliable and scalable software that connects automation, machine learning, and control principles. With a foundation in control theory and data-driven modeling, I enjoy creating solutions that bridge algorithms and real-world applications,from modern backend services to robotics and industrial systems.
+I’m passionate about building intelligent and reliable systems that connect backend development, automation, machine learning, and control principles. With a foundation in control theory and data-driven modeling, I enjoy creating solutions that bridge algorithms with real-world applications, from modern backend services to robotics and industrial systems.
 
 Curious by nature, I’m always exploring new tools, architectures, and frameworks that make systems more efficient, adaptable, and impactful.
 
