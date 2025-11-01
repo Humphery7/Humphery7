@@ -4,9 +4,9 @@
 
 ## About Me
 
-I’m passionate about building intelligent and reliable systems that connect backend development, machine learning, and control principles. With a foundation in control theory and data-driven modeling, I enjoy creating solutions that bridge algorithms with real-world applications, from modern backend services to robotics and industrial systems.
+I’m passionate about building intelligent and reliable systems that solve real-world problems. With a solid foundation in analytical thinking and system design, I enjoy creating solutions that connect ideas with practical execution and turn concepts into working products.
 
-Curious by nature, I’m always exploring new tools, architectures, and frameworks that make systems more efficient, adaptable, and impactful.
+Driven by curiosity, I’m constantly exploring better ways to design, improve, and optimize systems, whether through smarter architecture, refined processes, or innovative problem-solving approaches.
 
 ## Tech Stack
 
