@@ -4,9 +4,7 @@
 
 ## About Me
 
-I’m passionate about building intelligent and reliable systems that solve real-world problems. With a solid foundation in analytical thinking and system design, I enjoy creating solutions that connect ideas with practical execution and turn concepts into working products.
-
-Driven by curiosity, I’m constantly exploring better ways to design, improve, and optimize systems, whether through smarter architecture, refined processes, or innovative problem-solving approaches.
+I’m passionate about building reliable systems that solve real-world problems. With a strong foundation in analytical thinking and system design, I enjoy turning ideas into practical, working solutions. I’m curious by nature and enjoy finding practical ways to design, improve, and optimize systems through thoughtful architecture, efficient processes, and creative problem-solving.
 
 ## Tech Stack
 
