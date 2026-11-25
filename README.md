@@ -22,5 +22,5 @@ I’m passionate about building reliable systems that solve real-world problems.
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/humpheryotu/)
-[![Resume](https://img.shields.io/badge/-Resume-4285F4?style=flat-square&logo=Google-Drive&logoColor=white)](https://drive.google.com/file/d/1MioJEuu7GvDE1wMzopa2OCnIMLfCANah/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/-Resume-4285F4?style=flat-square&logo=Google-Drive&logoColor=white)]([https://drive.google.com/file/d/1MioJEuu7GvDE1wMzopa2OCnIMLfCANah/view?usp=sharing](https://site-portfolio-inky.vercel.app/assets/Ufuoma_Otuoniyo_CV.pdf))
 
